@@ -47,6 +47,10 @@ import org.apache.juli.logging.LogFactory;
  * @author Craig R. McClanahan
  * @author Remy Maucherat
  */
+
+/**
+ * hello
+ */
 public final class Bootstrap {
 
     private static final Log log = LogFactory.getLog(Bootstrap.class);
